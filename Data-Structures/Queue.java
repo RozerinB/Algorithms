@@ -1,8 +1,4 @@
-<<<<<<< Updated upstream
-=======
-<<<<<<< Updated upstream
 
-=======
 import java.util.LinkedList;
 import java.util.Queue;
 
@@ -13,5 +9,3 @@ public class Queue {
 
     }
 }
->>>>>>> Stashed changes
->>>>>>> Stashed changes
